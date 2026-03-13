@@ -14,3 +14,112 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kay Staff | Official Artist</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+
+<nav>
+
+<h2 class="logo">Kay Staff</h2>
+
+<ul>
+<li><a href="#">Home</a></li>
+<li><a href="#music">Music</a></li>
+<li><a href="#about">About</a></li>
+<li><a href="#connect">Connect</a></li>
+</ul>
+
+</nav>
+
+</header>
+
+<section class="hero">
+
+<h1>KAY STAFF</h1>
+
+<p>Dream Big • Hustle Hard • Music From The Streets</p>
+
+<a href="https://audiomack.com/kaystaff19">
+<button class="cta-btn">Stream My Music</button>
+</a>
+
+</section>
+
+<section id="music" class="music">
+
+<h2>Latest Music</h2>
+
+<div class="music-grid">
+
+<div class="track">
+
+<h3>I've a Dream</h3>
+
+<iframe 
+src="https://audiomack.com/embed/kaystaff19/song/ive-a-dream"
+scrolling="no"
+width="100%"
+height="252">
+</iframe>
+
+</div>
+
+<div class="track">
+
+<h3>More Music Coming</h3>
+
+<p>Stay tuned for new releases.</p>
+
+</div>
+
+</div>
+
+</section>
+
+<section id="about" class="about">
+
+<h2>About Kay Staff</h2>
+
+<p>
+Kay Staff is a rising Ghanaian artist with a passion for storytelling through music.
+Blending rap, amapiano, and street motivation, he represents the voice of dreamers
+who started from nothing and are building something.
+</p>
+
+</section>
+
+<section id="connect" class="connect">
+
+<h2>Connect With Me</h2>
+
+<div class="socials">
+
+<a href="https://audiomack.com/kaystaff19">Audiomack</a>
+
+<a href="#">Instagram</a>
+
+<a href="#">TikTok</a>
+
+<a href="#">YouTube</a>
+
+</div>
+
+</section>
+
+<footer>
+
+<p>© 2026 Kay Staff. All rights reserved.</p>
+
+</footer>
+
+</body>
+</html>
